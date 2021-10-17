@@ -1,9 +1,21 @@
-import React from 'react';
+import React from "react";
 
-const List = () => {
+const List = ({ resorts }) => {
   return (
     <>
-      <h2>list component</h2>
+      {resorts.map((item) => {
+        const { id, name, rating, image } = item;
+        return (
+          <article className="item">
+            <img src={image} alt="" />
+            <div>
+              <h4>{name}</h4>
+
+              <p>{rating}</p>
+            </div>
+          </article>
+        );
+      })}
     </>
   );
 };
