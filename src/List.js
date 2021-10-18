@@ -12,6 +12,7 @@ const List = ({ resorts }) => {
               <h4>{name}</h4>
 
               <p>{rating}</p>
+              <button>Book now</button>
             </div>
           </article>
         );
