@@ -36,4 +36,22 @@ export default [
     image:
       "https://travel.usnews.com/dims4/USNEWS/d077018/2147483647/resize/255x255%5E%3E/crop/255x255/quality/85/?url=https://travel.usnews.com/images/The_Inn_Club_at_Harbour_Town_-_Sea_Pines_Resort_usn_13.jpg",
   },
+  {
+    id: 6,
+    name: "Dorado Beach, A Ritz-Carlton",
+    rating: "5.0 star",
+    image: "https://travel.usnews.com/dims4/USNEWS/5aa0b7f/2147483647/resize/255x255%5E%3E/crop/255x255/quality/85/?url=https://travel.usnews.com/images/d2.jpg"
+  },
+  {
+    id: 7,
+    name: "Jumby Bay Island",
+    rating: "5.0 star",
+    image: "https://travel.usnews.com/dims4/USNEWS/602c3de/2147483647/resize/255x255%5E%3E/crop/255x255/quality/85/?url=https://travel.usnews.com/images/jumby2.jpg"
+  },
+  {
+    id: 8,
+    name: "Spice Island Beach Resort",
+    rating: "5.0 star",
+    image: "https://travel.usnews.com/dims4/USNEWS/e3bbfa9/2147483647/resize/255x255%5E%3E/crop/255x255/quality/85/?url=https://travel.usnews.com/images/Spice_Island_Beach_Resort_usn_11.jpg"
+  }
 ];
