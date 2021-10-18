@@ -7,7 +7,10 @@ function App() {
 
   return (
     <main>
+      <h1>Top {resorts.length} resorts</h1>
+      <br />
       <section className="container">
+
         <List resorts={resorts} />
       </section>
     </main>
