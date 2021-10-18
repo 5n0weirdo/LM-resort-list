@@ -29,11 +29,11 @@ export default [
     image:
       "https://travel.usnews.com/dims4/USNEWS/c2fc127/2147483647/resize/255x255%5E%3E/crop/255x255/quality/85/?url=https://travel.usnews.com/images/Tortuga_Bay_usn_4.jpg",
   },
-  // {
-  //   id: 5,
-  //   name: "The Inn & Club at Harbour Town - The Sea Pines Resort",
-  //   rating: "5-0 star",
-  //   image:
-  //     "https://travel.usnews.com/dims4/USNEWS/d077018/2147483647/resize/255x255%5E%3E/crop/255x255/quality/85/?url=https://travel.usnews.com/images/The_Inn_Club_at_Harbour_Town_-_Sea_Pines_Resort_usn_13.jpg",
-  // },
+  {
+    id: 5,
+    name: "The Inn & Club at Harbour Town - The Sea Pines Resort",
+    rating: "5-0 star",
+    image:
+      "https://travel.usnews.com/dims4/USNEWS/d077018/2147483647/resize/255x255%5E%3E/crop/255x255/quality/85/?url=https://travel.usnews.com/images/The_Inn_Club_at_Harbour_Town_-_Sea_Pines_Resort_usn_13.jpg",
+  },
 ];
