@@ -12,7 +12,14 @@ const List = ({ resorts }) => {
               <h4>{name}</h4>
 
               <p>{rating}</p>
-              <button>Book now</button>
+              <button
+                className="btn"
+                onClick={() => {
+                  alert("Booked");
+                }}
+              >
+                Book now
+              </button>
             </div>
           </article>
         );
