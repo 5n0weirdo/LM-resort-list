@@ -14,10 +14,12 @@ body {
 
 .container {
   width: 60%;
+  height: 60%;
   max-width: 1170px;
-  margin: 5rem auto;
+  margin: 0 auto;
   display: grid;
   gap: 1rem;
+  justify-items: center;
 }
 
 @media screen and (min-width: 768px) {
@@ -37,7 +39,7 @@ body {
 }
 
 .btn {
-  background-color: #4caf50; /* Green */
+  background-color: #586358; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
